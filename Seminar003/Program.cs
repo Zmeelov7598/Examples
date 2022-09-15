@@ -1,5 +1,4 @@
-﻿
-Console.WriteLine("Введите числа!");
+﻿Console.WriteLine("Введите числа!");
 
 int a = Convert.ToInt32(Console.ReadLine());
 
